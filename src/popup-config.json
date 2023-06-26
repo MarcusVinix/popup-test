@@ -1,0 +1,18 @@
+{
+  "gamePopup": {
+    "id": 1,
+    "title": "Caça-Níquel",
+    "subtitle": "Experimente o jogo de caça-níquel!",
+    "fieldNumber": 4,
+    "consentCheckbox": true
+  },
+  "videoPopup": {
+    "id": 2,
+    "title": "Spider Man ",
+    "subtitle": "Across The Spider-Verse!",
+    "fieldNumber": 4,
+    "consentCheckbox": false,
+    "urlVideo": "video.mp4"
+  },
+  "show": 1
+}
